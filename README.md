@@ -18,5 +18,5 @@
 ```
 
 
-![图片描述](https://github.com/494293346/floatviewball/blob/master/image/1.png)
+![图片描述](https://github.com/494293346/floatviewball/blob/master/image/1.gif)
 
